@@ -17,6 +17,6 @@ The aim of thew the project is as follows -
 
 1) Perform exploratory data analysis, data pre-processing, feature extraction, and researched ML algorithms like SVM and logistic regression.
 
-2) Study the company's supply chain using various data analytic tools to improve customer support, helped in identifying challenges and stream lining of it's operations. 
+2) Study the company's supply chain using various data analytic tools to improve Customer support/fulfilment at after sales market and organizational performance, identifying challenges to balance demand and supplies, analysing data to have clear visibility and to stream lining its operations through Supply Chain Analytics.
 
-The project was part of an academic internship. The data is confidential  conducted with the help of da
+
