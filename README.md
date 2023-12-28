@@ -13,7 +13,7 @@ Dataset: The dataset contains real-time data from a large construction and minin
 
 Note: The dataset used for this project is confidential and was generously shared with me during an academic internship.
  
-The aim of thew the project is as follows -
+The aim of the project is as follows -
 
 1) Perform exploratory data analysis, data pre-processing, feature extraction, and researched ML algorithms like SVM and logistic regression.
 
